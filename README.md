@@ -10,7 +10,6 @@ The dashboard helps understand revenue, expenses, profit, payment methods, depar
 
 ![Dashboard Screenshot](/dashboard.png)
 
-
 ## Tools Used
 
 - Microsoft Excel
