@@ -8,7 +8,7 @@ The dashboard helps understand revenue, expenses, profit, payment methods, depar
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](/dashboard.png)
 
 
 ## Tools Used
